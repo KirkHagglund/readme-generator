@@ -15,12 +15,6 @@ const questions = [
         message: 'Create a description.',
         name: 'description',
     },
-    /*{
-        type: 'checkbox',
-        message: 'List your table of contents items.',
-        name: 'contents',
-        choices: ['Installation', 'Usage', 'License', 'Contributions', 'Tests', 'Questions']
-    },*/
     {
         type: 'input',
         message: 'Add installation details.',
@@ -51,6 +45,11 @@ const questions = [
         type: 'input',
         message: 'What is your github username?',
         name: 'github',
+    },
+    {
+        type: 'input',
+        message: 'What is your eamil address?',
+        name: 'email',
     },
 ];
 
