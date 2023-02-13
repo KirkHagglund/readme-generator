@@ -28,6 +28,10 @@
   ## Usage
   To create a new README file, open the directory in your terminal and enter the command 'node index.js'. You will be prompted to input information answering a series of questions. Once complete, the new file will be generated in the aforementioned folder.
 
+  Website URL: http://kirkhagglund.github.io/readme-generator/
+
+  ![A screenshot of a generated README file](./utils/screenshot.png)
+
   ## License
   This project is protected by a standard MIT License. Please see license link for detailed information.
   
