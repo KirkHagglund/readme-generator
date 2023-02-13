@@ -55,7 +55,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    process.chdir('newReadMe');
+    process.chdir('utils/newReadMe');
     return fs.writeFileSync(fileName, data, err => {
         if (err) {
             return console.log(err);

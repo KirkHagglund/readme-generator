@@ -10,17 +10,17 @@
 
   ## Table of Contents
   
-  • Installation
+  • [Installation](#installation)
 
-  • Usage
+  • [Usage](#usage)
 
-  • License
+  • [License](#license)
 
-  • Contributions
+  • [Contributions](#contributions)
 
-  • Tests
+  • [Tests](#tests)
 
-  • Questions
+  • [Questions](#questions)
 
   ## Installation
   Requirements to employ this program are Node JS, as well as the inquirer library.
