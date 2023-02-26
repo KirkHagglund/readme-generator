@@ -1,4 +1,4 @@
-# Sample Generator
+# Employee Tracker App
 
   ## Badges
   ![Badge Image](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -6,7 +6,7 @@
   [License Link](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a description
+  This is a repository containing source code for an employee tracker database. It was built using mysql and inquirer. The app operates in the CLI and allows users to view and update all aspects of the database to their liking.
 
   ## Table of Contents
   
@@ -23,22 +23,22 @@
   • [Questions](#questions)
 
   ## Installation
-  Here's how to install.
+  This application requires mysql2, console.table, and the inquirer library to be imported and installed for usage.
 
   ## Usage
-  This is how to use it.
+  To use this app, run npm install to import the necessary libraries. Then populate your database by logging onto mysql. Once logged in, run commands "source db/schema.sql;" and "source db/seed.sql;" in succession to create and seed the starting data. After quitting mysql, run the command npm start to open the application. Follow instructions to select and input data at your choosing.
 
   ## License
   This project is protected by a standard MIT License. Please see license link for detailed information.
   
   ## Contributions
-  See questions section for contact details.
+  To contribute to this application, please contact the creater using the links provided in the Questions section. 
 
   ## Tests
-  Will use jest
+  Future contributions will be implemented after passing JEST testing suites.
 
   ## Questions
-  [Github Account](https://github.com/kirkhagglund)
+  [Github Account](https://github.com/KirkHagglund)
 
   [Email Account](mailto:kirkhagglund@gmail.com)
 
